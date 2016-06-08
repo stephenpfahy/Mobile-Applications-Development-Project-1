@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MobileProjectVotingApplication</string>
+
+    <string name="welcome">WELCOME TO THE 2016 ELECTION SURVEY FOR GALWAY WEST</string>
+
+    <string name="take_poll">TAKE POLL</string>
+
+    <string name="generate_statistics">GENERATE STATISTICS</string>
+
+    <string name="are_you_eligible">ARE YOU ELIGIBLE TO VOTE?</string>
+
+    <string name="if_you_are_not_eligible">IF YOU ARE NOT ELIGIBLE OR REGISTERED TO VOTE PLEASE DO NOT TAKE PART IN THIS POLL.</string>
+
+    <string name="if_you_are_not_eligible_2">Please do not take part in this poll if you are not eligible to vote.</string>
+
+    <string name="yes">YES</string>
+
+    <string name="no">NO</string>
+
+    <string name="election_picture">ELECTIONS 2016</string>
+
+    <string name="age">What is your age? </string>
+
+    <string name="your_age">Your Age: </string>
+
+    <string name="voting_information">VOTING INFORMATION </string>
+
+    <string name="gender">Gender: </string>
+
+    <string name="viewdatabase">VIEW DATABASE </string>
+
+    <string name="menu">RETURN TO MAIN MENU </string>
+
+    <string name="statistics_menu"> STATISTICS MENU </string>
+
+
+    <string name="age_politicalparty"> STATISTICS BASED ON AGE AND POLITICAL PARTY? </string>
+
+    <string name="exit">EXIT POLL APP</string>
+
+
+</resources>
